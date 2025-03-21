@@ -8,6 +8,11 @@ Entender el sentido de la interfaz al igual que su implementación, crear los m�
 "vierte"), el procedimiento para subirlo a GitHub.
 
 INSTRUNCCIONES PARA EJECUTARSE:
+La ubicación de los códigos:
+C:\Users\100176476\Documents\NetBeansProjects\ICCPracticas\Practica_2\src\main\java\com\mycompany\practica_2
+Practica_2 = main
+Recipiente = Clase Recipiente
+ServiciosR
 
 SE UTILIZÓ:
  NetBeans IDE 24  
