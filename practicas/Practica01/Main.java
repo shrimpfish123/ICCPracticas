@@ -1,16 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package com.mycompany.calculadoraintento1icc;
 import java.util.Scanner;
-/**
- *
- * @author 100176476
- */
-public class CalculadoraIntento1ICC {
-
-    public static void main(String[] args) {
+public class Main {
+        public static void main(String[] args) {
         Scanner cursor = new Scanner(System.in);
         int cursorR;
         
